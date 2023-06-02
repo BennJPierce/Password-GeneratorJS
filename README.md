@@ -4,7 +4,9 @@
 ## Description
 This is a simple web application that generates secure passwords based on user-defined criteria. The generated passwords are designed to be strong and meet commonly recommended security standards.
 ![image](https://github.com/BennJPierce/Password-GeneratorJS/assets/132109155/d755e61f-e9d1-43ee-9128-c133706385eb)
-![link](https://bennjpierce.github.io/Password-GeneratorJS/)"My Deployed Application"
+https://bennjpierce.github.io/Password-GeneratorJS/
+
+
 ## Instalation 
 N/A
 
